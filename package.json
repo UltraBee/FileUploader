@@ -1,0 +1,12 @@
+{
+  "name": "file",
+  "version": "1.0.0",
+  "description": "file uploader",
+  "main": "app.js",
+  "author": "daga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "formidable": "^1.1.1"
+  }
+}
